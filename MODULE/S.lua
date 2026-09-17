@@ -1,3 +1,4 @@
 local BAN = {
  
 }
+return BAN
