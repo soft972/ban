@@ -1,4 +1,4 @@
-local liste_comptes_BAN = {
+local BANNIS = {
     ["10058625447"] = true,
     ["7470487083"] = true,
     ["8141863028"] = true,
@@ -53,6 +53,6 @@ local liste_comptes_BAN = {
     ["11043638018"] = true,
     ["11296632841"] = true,
     ["11001727095"] = true,
-    ["11069379703"] = true
+    ["11069379703"] = true,
 }
-return liste_comptes_BAN
+return BANNIS
