@@ -165,5 +165,6 @@ local BANNIS = {
     ["3429432442"] = true,
     ["9897529590"] = true,
     ["7770162687"] = true,
+    ["6009958182"] = true,
 }
 return BANNIS 
